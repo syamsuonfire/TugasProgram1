@@ -1,0 +1,6 @@
+C:\Users\Syamsu Rijal Efendi\source\repos\TugasProgram1\TugasProgram1\bin\Debug\TugasProgram1.exe.config
+C:\Users\Syamsu Rijal Efendi\source\repos\TugasProgram1\TugasProgram1\bin\Debug\TugasProgram1.exe
+C:\Users\Syamsu Rijal Efendi\source\repos\TugasProgram1\TugasProgram1\bin\Debug\TugasProgram1.pdb
+C:\Users\Syamsu Rijal Efendi\source\repos\TugasProgram1\TugasProgram1\obj\Debug\TugasProgram1.csprojAssemblyReference.cache
+C:\Users\Syamsu Rijal Efendi\source\repos\TugasProgram1\TugasProgram1\obj\Debug\TugasProgram1.exe
+C:\Users\Syamsu Rijal Efendi\source\repos\TugasProgram1\TugasProgram1\obj\Debug\TugasProgram1.pdb
